@@ -1,0 +1,5 @@
+@minimal_demo_HostAddress = http://localhost:5190
+
+GET {{minimal_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+# This request retrieves the weather forecast data from the minimal demo application.
