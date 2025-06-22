@@ -1,6 +1,6 @@
 # API Demo
 
-.NET API demo
+This is a repository for demonstrating using OpenAPI to show multiple APIs into a single UI.
 
 ## Minimal API
 
